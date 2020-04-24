@@ -2,7 +2,9 @@
 Topic: Cinema
 # Framework used
 Django
-# Tool
+# Backend db
+Mysql
+# Tool used
 pythonanywhere
 # Website Link
 cdhanya.pythonanywhere.com
